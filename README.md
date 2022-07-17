@@ -19,7 +19,9 @@
 
 ### [猫猫互联](https://neko.services/#/register?code=M0mECfSl)
 
-SS Trojan 节点 10元不限时套餐
+Shadowsocks & VMess 节点 直连 & 中转
+
+10元不限时套餐 & 月付大流量
 
 ## 发布频道 讨论群
 
