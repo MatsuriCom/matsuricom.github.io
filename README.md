@@ -12,17 +12,6 @@
 
 [https://matsuridayo.github.io/](https://matsuridayo.github.io/)
 
-
-## 机场推广
-
-官网如打不开，请自备梯子。
-
-### [猫猫互联](https://neko.services/#/register?code=M0mECfSl)
-
-Shadowsocks & VMess 节点 直连 & 中转
-
-10元不限时套餐 & 月付大流量
-
 ## 发布频道 讨论群
 
 Telegram
